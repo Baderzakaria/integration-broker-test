@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" procOnly="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="broker-core" target="11" />
+      <module name="change-event-generator" target="11" />
+      <module name="data-model" target="11" />
+      <module name="data-transformer" target="11" />
+      <module name="quintiq-data-transformer" target="11" />
+      <module name="rule-manager" target="11" />
+      <module name="sink-connector" target="11" />
+      <module name="source-handler" target="11" />
+      <module name="tnexus-integration-broker" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

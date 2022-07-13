@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/broker-core/broker-core.iml" filepath="$PROJECT_DIR$/broker-core/broker-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/change-event-generator/change-event-generator.iml" filepath="$PROJECT_DIR$/change-event-generator/change-event-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-model/data-model.iml" filepath="$PROJECT_DIR$/data-model/data-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-transformer/data-transformer.iml" filepath="$PROJECT_DIR$/data-transformer/data-transformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quintiq-data-transformer/quintiq-data-transformer.iml" filepath="$PROJECT_DIR$/quintiq-data-transformer/quintiq-data-transformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rule-manager/rule-manager.iml" filepath="$PROJECT_DIR$/rule-manager/rule-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sink-connector/sink-connector.iml" filepath="$PROJECT_DIR$/sink-connector/sink-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source-handler/source-handler.iml" filepath="$PROJECT_DIR$/source-handler/source-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tnexus-integration-broker.iml" filepath="$PROJECT_DIR$/tnexus-integration-broker.iml" />
+    </modules>
+  </component>
+</project>
